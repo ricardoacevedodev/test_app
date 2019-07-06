@@ -30,5 +30,5 @@ git push
 
 To deploy app to production, we'll use heroku in this course, link to heroku:
 
-www.heroku.com
+www.heroku.com.
 midnigth code
